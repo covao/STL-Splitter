@@ -8,6 +8,7 @@ STL files often contain multiple disconnected 3D objects packed into a single fi
 
 - No server, no installation — just open the HTML file in a browser.
 - [Start STL-Splitter](https://covao.github.io/STL-Splitter/stl-splitter.html)
+- [Demo to start by passing stl file URL](https://covao.github.io/STL-Splitter/stl-splitter.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcovao%2FTatamiRacer%2Fmaster%2F3d%2Ftatamiracer_kit.stl)
 
 ## Usage
 
