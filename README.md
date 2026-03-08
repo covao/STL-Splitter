@@ -10,6 +10,8 @@ STL files often contain multiple disconnected 3D objects packed into a single fi
 - [Start STL-Splitter](https://covao.github.io/STL-Splitter/stl-splitter.html)
 - [Demo to start by passing stl file URL](https://covao.github.io/STL-Splitter/stl-splitter.html?file=https%3A%2F%2Fraw.githubusercontent.com%2Fcovao%2FTatamiRacer%2Fmaster%2F3d%2Ftatamiracer_kit.stl)
 
+
+![/stl-splitter_demo](https://github.com/covao/STL-Splitter/blob/main/img/stl-splitter_demo.gif)
 ## Usage
 
 **Open a file** — Drag & drop an STL file onto the page, or click to browse. Both binary and ASCII STL formats are supported.
