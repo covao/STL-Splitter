@@ -6,7 +6,8 @@ A single-file browser tool that separates multi-object STL files into individual
 
 STL files often contain multiple disconnected 3D objects packed into a single file. STL Splitter automatically detects and separates these objects using vertex connectivity analysis (Union-Find), displays them with distinct colors in a 3D viewport, and lets you export selected objects as individual STL files.
 
-No server, no installation — just open the HTML file in a browser.
+- No server, no installation — just open the HTML file in a browser.
+- [Start STL-Splitter](https://covao.github.io/STL-Splitter/stl-splitter.html)
 
 ## Usage
 
